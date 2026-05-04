@@ -20,7 +20,7 @@
     "striptags": "^2.1.1",
     "underscore": "^1.8.3",
     "ursa": "^0.9.1",
-    "uuid": "^2.0.1",
+    "uuid": "^14.0.0",
     "vorpal": "^1.7.7"
   },
   "description": "Encipher client libraries for linux.",
